@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Empty Context (mtctx)
+# 👋 Hi, I'm mtctx
 
 ### Privacy-First Backend Systems
 *"Your life online is a goldmine for sale — big tech knows everything about you, and you're giving it away for free."*
