@@ -56,8 +56,8 @@ Core Principles:
 ## Find Me On
 <div align="center">
 
-[![Website](https://skillicons.dev/icons?i=htmx)](https://pixelatedslice.dev)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:me@pixelatedslice.dev)
+[![Website](https://go-skill-icons.vercel.app/api/icons?i=chromium)](https://pixelatedslice.com)
+[![Email](https://go-skill-icons.vercel.app/api/icons?i=proton)](mailto:me@pixelatedslice.com)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/504014438383222804)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/pixelatedslice)
 [![YouTube](https://skillicons.dev/icons?i=youtube)](https://youtube.com/@pixelatedslice)
